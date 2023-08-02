@@ -1,0 +1,17 @@
+body {
+    background-color : #75C9B7;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.encabezado{
+    color: #C7DDCC;
+}
+
+nav .links{
+    align-items: center;
+    justify-content: space-between;
+    color: #262A33;
+}
